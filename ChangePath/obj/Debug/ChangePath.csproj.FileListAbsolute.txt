@@ -1,0 +1,11 @@
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.csprojAssemblyReference.cache
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.Form1.resources
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.Properties.Resources.resources
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.csproj.GenerateResource.cache
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.csproj.CoreCompileInputs.cache
+E:\My own projects\ChangePath\ChangePath\bin\Debug\ChangePath.exe.config
+E:\My own projects\ChangePath\ChangePath\bin\Debug\ChangePath.exe
+E:\My own projects\ChangePath\ChangePath\bin\Debug\ChangePath.pdb
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.exe
+E:\My own projects\ChangePath\ChangePath\obj\Debug\ChangePath.pdb
+E:\My own projects\ChangePath\ChangePath\bin\Debug\Form1.Designer.cs
